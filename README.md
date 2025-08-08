@@ -1,0 +1,2 @@
+# Unsorted documents, drafts, and notes related to the [Signal Processing Group at
+Liverpool](https://www.liverpool.ac.uk/electrical-engineering-and-electronics/research/data-science-signal-processing/signalprocessing/)
